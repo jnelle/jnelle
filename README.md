@@ -2,9 +2,11 @@
 <br>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Billaids&show_icons=true&hide_border=true)
-
+![My github stats](https://github-readme-stats.vercel.app/api?username=Billaids&show_icons=true&hide_border=true&theme=radical)
 <br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billaids&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<img src="https://komarev.com/ghpvc/?username=billaids&style=flat-square" alt="billaids" />
 <!--
 **Billaids/Billaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
