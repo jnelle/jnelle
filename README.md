@@ -2,7 +2,9 @@
 <br>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Billaids&show_icons=true&hide_border=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=billaids&show_icons=true&count_private=true&theme=dark)
+<br>
+![My contributions](https://github-readme-streak-stats.herokuapp.com/?user=billaids&theme=dark)
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billaids&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
