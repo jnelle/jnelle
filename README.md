@@ -2,13 +2,13 @@
 <br>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=billaids&show_icons=true&count_private=true&theme=dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=jnelle&show_icons=true&count_private=true&theme=dark)
 <br>
-![My contributions](https://github-readme-streak-stats.herokuapp.com/?user=billaids&theme=dark)
+![My contributions](https://github-readme-streak-stats.herokuapp.com/?user=jnelle&theme=dark)
 <br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billaids&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jnelle&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<img src="https://komarev.com/ghpvc/?username=billaids&style=flat-square" alt="billaids" />
+<img src="https://komarev.com/ghpvc/?username=billaids&style=flat-square" alt="jnelle" />
 <!--
 **Billaids/Billaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
