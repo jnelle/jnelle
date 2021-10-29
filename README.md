@@ -8,7 +8,7 @@
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jnelle&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<img src="https://komarev.com/ghpvc/?username=billaids&style=flat-square" alt="jnelle" />
+<img src="https://komarev.com/ghpvc/?username=jnelle&style=flat-square" alt="jnelle" />
 <!--
 **Billaids/Billaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
