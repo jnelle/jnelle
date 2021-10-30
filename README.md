@@ -10,7 +10,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=jnelle&style=flat-square" alt="jnelle" />
 <!--
-**Billaids/Billaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jnelle/jnelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
