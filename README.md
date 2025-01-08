@@ -10,7 +10,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jnelle&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jnelle&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jnelle&theme=github)
-<img src="https://komarev.com/ghpvc/?username=jnelle&style=flat-square" alt="jnelle" /><br>
+<br><img src="https://komarev.com/ghpvc/?username=jnelle&style=flat-square" alt="jnelle" /><br>
 
 [Telegram](t.me/billaids)
 <!--
